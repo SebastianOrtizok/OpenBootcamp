@@ -1,0 +1,20 @@
+crear las carpetas
+ingresar en la carpetas
+linea de comandos en cms
+code . (para abrir visual estudio code)
+Abrir nueva terminal
+comando npm init 
+
+ingresar nombre
+version
+descripcion
+entry point 
+test command
+git repository:
+keywords: palabras separadas por comas
+Autor:
+Luicencia:
+
+Repositorio
+
+https://github.com/Open-Bootcamp/JavaScript-Basico
